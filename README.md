@@ -11,6 +11,9 @@ Responsibility always remains with the user.
 
 > ZR-UX exists to make boundaries recognizable, without giving conclusions.
 
+This library may distribute AI capabilities,
+but it does not distribute the illusion of AI judgment.
+
 ---
 
 ## Start Here
