@@ -105,3 +105,15 @@ Forks are encouraged. Divergence is allowed.
 
 The name **Zero Reflect (ZR)** must not be used to imply authority over forks.  
 Outcomes are always owned by users.
+
+## Licensing Note
+
+This UX layer follows the ZR governance model.
+
+Code usage is governed by the open-source license.  
+System-level usage and implementation scopes are described separately.
+
+See:
+- GOVERNANCE.md
+- NOTICE.md
+- LICENSE-CLASSES.md
